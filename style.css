@@ -38,7 +38,7 @@ line-height: 2.5;
 
 h2 {
 border-bottom:2px solid #000;
-display:inline;
+display:inline-block;
 }
 
 
